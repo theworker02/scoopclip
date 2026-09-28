@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/scoopclip",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scoop numeric clip values, ranges, and human-readable units.",
+  "bin": {
+    "scoopclip": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/scoopclip.git"
+  },
+  "homepage": "https://theworker02.github.io/scoopclip/",
+  "keywords": [
+    "scoop",
+    "clip",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
